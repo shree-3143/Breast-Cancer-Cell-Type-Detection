@@ -40,7 +40,6 @@ Therefore, the Random Forest Algorithm was the model I decided to use the classi
 
 The final step to the project was printing the prediction of the data using the model. As I deduced that the Random Forest Algorithm had the highest testing accuracy, I printed the prediction of the data using this model. Essentially, now we are seeing if the prediction of the independent testing dataset matches the actual dependent testing dataset.
 
-Here,
 - 1 = Malignant cell
 - 0 = Benign cell
 
