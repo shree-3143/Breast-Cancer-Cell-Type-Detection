@@ -41,8 +41,8 @@ Therefore, the Random Forest Algorithm was the model I decided to use the classi
 The final step to the project was printing the prediction of the data using the model. As I deduced that the Random Forest Algorithm had the highest testing accuracy, I printed the prediction of the data using this model. Essentially, now we are seeing if the prediction of the independent testing dataset matches the actual dependent testing dataset.
 
 Here,
-1 = Malignant cell
-0 = Benign cell
+- 1 = Malignant cell
+- 0 = Benign cell
 
 <img width="801" alt="Screen Shot 2023-09-25 at 11 14 21 pm" src="https://github.com/shree-3143/Breast-Cancer-Cell-Type-Detection/assets/130221650/e6cb01c3-79ee-4ceb-820b-ac690069ea48">
 
@@ -52,7 +52,19 @@ The model is relatively accurate. There are only two cells that the model has id
 
 <h3>Referencing:</h3>
 
+The tutorial I followed for this project was:
+
+
 https://www.youtube.com/watch?v=NSSOyhJBmWY
+
+
+This is his website:
+
+https://randerson112358.medium.com/
+
+
+
+
 
 
 
