@@ -48,6 +48,34 @@ The final step to the project was printing the prediction of the data using the 
 
 The model is relatively accurate. There are only two cells that the model has identified incorrectly, one being a False-Positive and one being a False-Negative.
 
+<h3>Graphs used:</h3>
+
+**Correlation of Properties Heatmap (of first 10 properties):**
+
+<img width="207" alt="image" src="https://github.com/shree-3143/Breast-Cancer-Cell-Type-Detection/assets/130221650/f75dd75e-16fd-4264-8cce-593aded028e4">
+
+
+
+**Pair Plot (of first 3 properties):**
+
+<img width="165" alt="image" src="https://github.com/shree-3143/Breast-Cancer-Cell-Type-Detection/assets/130221650/e9a51326-1dd2-44c9-98af-960da1e498d0">
+
+
+
+**Pie Chart of Class Distribution:**
+
+<img width="161" alt="image" src="https://github.com/shree-3143/Breast-Cancer-Cell-Type-Detection/assets/130221650/7b10e413-31b2-4801-b52e-d7976f65622b">
+
+
+
+**Count Plot of Class Distribution:**
+
+<img width="204" alt="image" src="https://github.com/shree-3143/Breast-Cancer-Cell-Type-Detection/assets/130221650/13928c0e-9a0d-492e-bb6c-4fc1cc8c9d23">
+
+
+
+
+
 
 <h3>Referencing:</h3>
 
