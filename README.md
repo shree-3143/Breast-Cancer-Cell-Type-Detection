@@ -1,5 +1,5 @@
 # Breast Cancer Cell Type Detection
-(This project won 1st Place in the ACT Young ICT Explorers (YICTE) Competition in Year 10 2023. This was also my Year 11 Semester 1 project)
+(NOTE: This project won 1st Place in the ACT Young ICT Explorers (YICTE) Competition in Year 10 2023. This was also my Year 11 Semester 1 2024 project)
 
 
 <h3>Project summary:</h3>
