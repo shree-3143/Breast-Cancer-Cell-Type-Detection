@@ -8,7 +8,7 @@ My project is a Cell Type Identifier for Breast Cancer. I have created a model (
 
 <h3>About the dataset:</h3>
 
-I have used the Breast Cancer Wisconsin (Diagnostic) Data Set for my project. This dataset contains properties of cell nuclei from 569 different patients. For each cell’s nucleus, 10 features are computed, with the mean, standard error, worst, and largest (the mean of the 3 largest values) also being recorded, giving 31 properties for each cell nucleus in total.!
+I have used the Breast Cancer Wisconsin (Diagnostic) Data Set for my project. This dataset contains properties of cell nuclei from 569 different patients. For each cell’s nucleus, 10 features are computed, with the mean, standard error, worst, and largest (the mean of the 3 largest values) also being recorded, giving 31 properties for each cell nucleus in total.
 
 Link to dataset: 
 https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
